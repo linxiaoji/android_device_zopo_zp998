@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_zp998.mk
+    $(LOCAL_DIR)/full_g750-t01.mk
